@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/SimpleQalculator">
-    <file alias="qmldir">/home/rcbluhm/Programming/Qt/SimpleQalculator/build/Qt_6_8_3_qt6-Debug/SimpleQalculator/qmldir</file>
-  </qresource>
-</RCC>
-

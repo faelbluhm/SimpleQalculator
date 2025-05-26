@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_appSimpleQalculator_FILE /home/rcbluhm/Programming/Qt/SimpleQalculator/build/Qt_6_8_3_qt6-Debug/appSimpleQalculator)
-set(__QT_DEPLOY_TARGET_appSimpleQalculator_TYPE EXECUTABLE)

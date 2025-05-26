@@ -1,5 +1,0 @@
-module SimpleQalculator
-typeinfo appSimpleQalculator.qmltypes
-prefer :/qt/qml/SimpleQalculator/
-Main 1.0 Main.qml
-
