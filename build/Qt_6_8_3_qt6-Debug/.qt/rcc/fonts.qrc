@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="fonts/DS-DIGIB.TTF">/home/rcbluhm/Programming/Qt/SimpleQalculator/fonts/DS-DIGIB.TTF</file>
+  </qresource>
+</RCC>
+

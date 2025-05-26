@@ -1,0 +1,9 @@
+
+set(target "appSimpleQalculator")
+set(working_dir "/home/rcbluhm/Programming/Qt/SimpleQalculator")
+set(src_and_dest_list
+    "/home/rcbluhm/Programming/Qt/SimpleQalculator/Main.qml"
+    "/home/rcbluhm/Programming/Qt/SimpleQalculator/build/Qt_6_8_3_qt6-Debug/SimpleQalculator/Main.qml"
+
+)
+set(timestamp_file "/home/rcbluhm/Programming/Qt/SimpleQalculator/build/Qt_6_8_3_qt6-Debug/.qt/appSimpleQalculator_qml.txt")
