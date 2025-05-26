@@ -33,7 +33,7 @@ A modern, feature-rich calculator application built with Qt 6 and QML, featuring
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/faelbluhm/SimpleQalculator
-   cd qt-qml-calculator
+   cd SimpleQalculator
    ```
 
 2. **Create build directory:**
