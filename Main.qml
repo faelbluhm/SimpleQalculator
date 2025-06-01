@@ -48,6 +48,7 @@ ApplicationWindow {
         // Display
         Rectangle {
             Layout.fillWidth: true
+            Layout.topMargin: 20
             height: 60
             color: "#333333"
             radius: 8
