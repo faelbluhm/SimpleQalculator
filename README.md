@@ -24,7 +24,7 @@ A modern, feature-rich calculator application built with Qt 6 and QML, featuring
 
 ### Prerequisites
 
-- Qt 6.8.3 or later
+- Qt 6.6 or later
 - CMake 3.16 or later
 - C++17 compatible compiler
 

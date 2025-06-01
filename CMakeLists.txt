@@ -17,7 +17,8 @@ qt_add_qml_module(appSimpleQalculator
     VERSION 1.0
     QML_FILES
         Main.qml
-        SOURCES calculatorlogic.h calculatorlogic.cpp
+    SOURCES
+    calculatorlogic.h calculatorlogic.cpp
 )
 
 qt_add_resources(appSimpleQalculator "fonts"
